@@ -14,7 +14,7 @@ const int led3 = 10;         // donar nom al pin 10 de l’Arduino
 const int led4 = 11;         // donar nom al pin 11 de l’Arduino
 const int led5 = 12;         // donar nom al pin 12 de l’Arduino
      // donar nom al pin 2 de l’Arduino
-unsigned long temp = 800;
+unsigned long temp = 1000;
 //********** Setup ****************************************************************
 void setup()
 {
